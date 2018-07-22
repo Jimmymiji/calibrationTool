@@ -1,4 +1,4 @@
-# Install script for directory: /home/jimmy/calibration
+# Install script for directory: /home/lu/calibrationTool/video
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/jimmy/calibration/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/lu/calibrationTool/video/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

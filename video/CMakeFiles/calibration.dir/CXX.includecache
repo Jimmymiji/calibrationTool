@@ -6,21 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/jimmy/calibration/main.cpp
+/home/lu/calibrationTool/video/main.cpp
 opencv2/core.hpp
-/home/jimmy/calibration/opencv2/core.hpp
+/home/lu/calibrationTool/video/opencv2/core.hpp
 opencv2/core/utility.hpp
 -
 opencv2/imgproc.hpp
-/home/jimmy/calibration/opencv2/imgproc.hpp
+/home/lu/calibrationTool/video/opencv2/imgproc.hpp
 opencv2/calib3d.hpp
-/home/jimmy/calibration/opencv2/calib3d.hpp
+/home/lu/calibrationTool/video/opencv2/calib3d.hpp
 opencv2/imgcodecs.hpp
-/home/jimmy/calibration/opencv2/imgcodecs.hpp
+/home/lu/calibrationTool/video/opencv2/imgcodecs.hpp
 opencv2/videoio.hpp
-/home/jimmy/calibration/opencv2/videoio.hpp
+/home/lu/calibrationTool/video/opencv2/videoio.hpp
 opencv2/highgui.hpp
-/home/jimmy/calibration/opencv2/highgui.hpp
+/home/lu/calibrationTool/video/opencv2/highgui.hpp
 cctype
 -
 stdio.h
